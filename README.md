@@ -2,7 +2,7 @@
 
 I've follow the TDD principle to implement this Stack
 
-# [100% Test Coverage Report](coverage/index.html)
+# [100% Test Coverage Report](https://heo001997.github.io/kyklo-live-coding-stack/coverage/index.html)
 
 RSpec tests
 
